@@ -1,4 +1,4 @@
-/// Experimental GLFW Dart bindings
+/// GLFW2 Dart bindings
 library glfw;
 
 export 'src/generated_bindings.dart';

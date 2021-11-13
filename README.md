@@ -1,1 +1,1 @@
-A simple command-line application.
+GLFW2 Dart bindings
